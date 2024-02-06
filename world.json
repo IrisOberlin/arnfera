@@ -4,7 +4,7 @@
   "system": "dnd5e",
   "coreVersion": "11.315",
   "compatibility": {
-    "minimum": "11",
+    "minimum": "1",
     "verified": "11"
   },
   "download": "https://github.com/IrisOberlin/arnfera/releases/latest/download/arnfera.zip",
