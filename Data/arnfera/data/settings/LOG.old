@@ -1,0 +1,26 @@
+2024/02/01-17:02:57.707 2918 Recovering log #70
+2024/02/01-17:02:57.707 2918 Level-0 table #72: started
+2024/02/01-17:02:57.751 2918 Level-0 table #72: 753 bytes OK
+2024/02/01-17:02:57.899 2918 Delete type=0 #70
+2024/02/01-17:02:57.899 2918 Delete type=3 #68
+2024/02/01-22:43:58.147 b90 Level-0 table #75: started
+2024/02/01-22:43:58.199 b90 Level-0 table #75: 879 bytes OK
+2024/02/01-22:43:58.292 b90 Delete type=0 #73
+2024/02/01-22:43:58.379 b90 Manual compaction at level-0 from '!settings!Iy61JTIgsuNXikUg' @ 72057594037927935 : 1 .. '!settings!yIUZS0javrzGbkLC' @ 0 : 0; will stop at '!settings!hyDmCflDbjN1aQ4B' @ 48 : 1
+2024/02/01-22:43:58.379 b90 Compacting 4@0 + 0@1 files
+2024/02/01-22:43:58.500 b90 Generated table #76@0: 3 keys, 806 bytes
+2024/02/01-22:43:58.501 b90 Compacted 4@0 + 0@1 files => 806 bytes
+2024/02/01-22:43:58.552 b90 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/02/01-22:43:58.552 b90 Delete type=2 #66
+2024/02/01-22:43:58.553 b90 Delete type=2 #69
+2024/02/01-22:43:58.553 b90 Delete type=2 #72
+2024/02/01-22:43:58.554 b90 Delete type=2 #75
+2024/02/01-22:43:58.811 b90 Manual compaction at level-0 from '!settings!hyDmCflDbjN1aQ4B' @ 48 : 1 .. '!settings!yIUZS0javrzGbkLC' @ 0 : 0; will stop at (end)
+2024/02/01-22:43:58.811 b90 Manual compaction at level-1 from '!settings!Iy61JTIgsuNXikUg' @ 72057594037927935 : 1 .. '!settings!yIUZS0javrzGbkLC' @ 0 : 0; will stop at '!settings!hyDmCflDbjN1aQ4B' @ 54 : 1
+2024/02/01-22:43:58.811 b90 Compacting 1@1 + 1@2 files
+2024/02/01-22:43:58.888 b90 Generated table #77@1: 10 keys, 1686 bytes
+2024/02/01-22:43:58.888 b90 Compacted 1@1 + 1@2 files => 1686 bytes
+2024/02/01-22:43:58.926 b90 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/01-22:43:58.926 b90 Delete type=2 #62
+2024/02/01-22:43:58.935 b90 Delete type=2 #76
+2024/02/01-22:43:59.276 b90 Manual compaction at level-1 from '!settings!hyDmCflDbjN1aQ4B' @ 54 : 1 .. '!settings!yIUZS0javrzGbkLC' @ 0 : 0; will stop at (end)

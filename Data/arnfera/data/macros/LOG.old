@@ -1,0 +1,8 @@
+2024/02/01-17:02:56.875 e60 Recovering log #53
+2024/02/01-17:02:56.990 e60 Delete type=0 #53
+2024/02/01-17:02:56.991 e60 Delete type=3 #52
+2024/02/01-22:43:57.038 b90 Level-0 table #57: started
+2024/02/01-22:43:57.039 b90 Level-0 table #57: 0 bytes OK
+2024/02/01-22:43:57.109 b90 Delete type=0 #55
+2024/02/01-22:43:57.409 b90 Manual compaction at level-0 from '!macros!46cgGdmK0ELYadaJ' @ 72057594037927935 : 1 .. '!macros!yqUihexjKekQyjQn' @ 0 : 0; will stop at (end)
+2024/02/01-22:43:57.766 b90 Manual compaction at level-1 from '!macros!46cgGdmK0ELYadaJ' @ 72057594037927935 : 1 .. '!macros!yqUihexjKekQyjQn' @ 0 : 0; will stop at (end)
