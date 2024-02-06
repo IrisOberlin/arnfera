@@ -7,8 +7,8 @@
     "minimum": "11",
     "verified": "11"
   },
-  "download": "",
-  "manifest": "",
+  "download": "https://github.com/IrisOberlin/arnfera/releases/latest/download/arnfera.zip",
+  "manifest": "https://github.com/IrisOberlin/arnfera/releases/latest/download/world.json",
   "systemVersion": "2.4.1",
   "lastPlayed": "Fri Feb 02 2024 23:47:42 GMT-0500 (Eastern Standard Time)",
   "playtime": 75067,
